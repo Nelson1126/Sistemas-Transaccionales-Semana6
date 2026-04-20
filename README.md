@@ -1,1 +1,0 @@
-# Sistemas-Transaccionales-Semana6
