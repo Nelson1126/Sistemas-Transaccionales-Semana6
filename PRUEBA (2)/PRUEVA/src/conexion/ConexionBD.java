@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class ConexionBD {
     
-    public static void main(String[] args) {
+    public static void main(String[] args) {  // SE CAMBIA LA DIRECCION DE LA CONEXCIÓN  DE PENDIENDO DEL COMPUTADOR 
         String url = "jdbc:mysql://127.0.0.1:3306/pruevasemana6"; // direccion de  "pruebaDB" por tu DB
         String usuario = "root"; // tu usuario de MySQL
         String contraseña = ""; // tu contraseña de MySQL
